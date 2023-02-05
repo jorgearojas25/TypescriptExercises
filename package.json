@@ -1,0 +1,23 @@
+{
+  "name": "typescriptexercises",
+  "version": "1.0.0",
+  "description": "just a bunch of typescript exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgearojas25/TypescriptExercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgearojas25/TypescriptExercises/issues"
+  },
+  "homepage": "https://github.com/jorgearojas25/TypescriptExercises#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
